@@ -4,7 +4,7 @@ This script is checking if given web-site is available or not.
 
 Supply the script with your phone number and url and get notified if you web-site is down.
 
-url example: "https://github.com/"
+url example: https://github.com/
 
 
 # Installation
@@ -14,7 +14,7 @@ url example: "https://github.com/"
  - twilio
  - dotenv
  
-2. Register a free twilio.com account. Obtain the following info:
+2. Register a free https://twilio.com account. Obtain the following info:
  - twilio account sid
  - twilio auth token
  - twilio phone number
