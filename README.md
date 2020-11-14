@@ -20,8 +20,8 @@ url example: https://github.com/
  - twilio phone number
 
 3. In the folder you are running the script from, create .env file.
+Add the following variables and supply them with the values obtained on step 2.
 
-4. Add the following strings and the values obtained on step 2.  
   TWILIO_ACCOUNT_SID=  
   TWILIO_AUTH_TOKEN=  
   TWILIO_SENDER_NUM=  
