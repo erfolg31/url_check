@@ -2,7 +2,9 @@
 
 This script is checking if given web-site is available or not.
 
-Supply the script with your phone number and get notified if you web-site is down.
+Supply the script with your phone number and url and get notified if you web-site is down.
+
+url example: "https://github.com/"
 
 
 # Installation
